@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <record name="getDetails" javaclass="com.wm.util.Values">
+    <value name="urlPath">restv2/WmB2B_IOMigration.wm:b2b_io_migration/getDetails</value>
+    <record name="portMap" javaclass="com.wm.util.Values">
+    </record>
+  </record>
+  <record name="migratePartnerProfiles" javaclass="com.wm.util.Values">
+    <value name="urlPath">restv2/WmB2B_IOMigration.wm:b2b_io_migration/migratePartnerProfiles</value>
+    <record name="portMap" javaclass="com.wm.util.Values">
+    </record>
+  </record>
+  <record name="migrateBusinessDocuments" javaclass="com.wm.util.Values">
+    <value name="urlPath">restv2/WmB2B_IOMigration.wm:b2b_io_migration/migrateBusinessDocuments</value>
+    <record name="portMap" javaclass="com.wm.util.Values">
+    </record>
+  </record>
+  <record name="migrateDocumentAttributes" javaclass="com.wm.util.Values">
+    <value name="urlPath">restv2/WmB2B_IOMigration.wm:b2b_io_migration/migrateDocumentAttributes</value>
+    <record name="portMap" javaclass="com.wm.util.Values">
+    </record>
+  </record>
+  <record name="migrateProcessingRules" javaclass="com.wm.util.Values">
+    <value name="urlPath">restv2/WmB2B_IOMigration.wm:b2b_io_migration/migrateProcessingRules</value>
+    <record name="portMap" javaclass="com.wm.util.Values">
+    </record>
+  </record>
+  <record name="migrateTPAs" javaclass="com.wm.util.Values">
+    <value name="urlPath">restv2/WmB2B_IOMigration.wm:b2b_io_migration/migrateTPAs</value>
+    <record name="portMap" javaclass="com.wm.util.Values">
+    </record>
+  </record>
+  <record name="createDocumentAttributes" javaclass="com.wm.util.Values">
+    <value name="urlPath">restv2/WmB2B_IOMigration.wm:b2b_io_migration/createDocumentAttributes</value>
+    <record name="portMap" javaclass="com.wm.util.Values">
+    </record>
+  </record>
+  <record name="createPartnerProfiles" javaclass="com.wm.util.Values">
+    <value name="urlPath">restv2/WmB2B_IOMigration.wm:b2b_io_migration/createPartnerProfiles</value>
+    <record name="portMap" javaclass="com.wm.util.Values">
+    </record>
+  </record>
+  <record name="createBusinessDocuments" javaclass="com.wm.util.Values">
+    <value name="urlPath">restv2/WmB2B_IOMigration.wm:b2b_io_migration/createBusinessDocuments</value>
+    <record name="portMap" javaclass="com.wm.util.Values">
+    </record>
+  </record>
+  <record name="createProcessingRules" javaclass="com.wm.util.Values">
+    <value name="urlPath">restv2/WmB2B_IOMigration.wm:b2b_io_migration/createProcessingRules</value>
+    <record name="portMap" javaclass="com.wm.util.Values">
+    </record>
+  </record>
+  <record name="createTPA" javaclass="com.wm.util.Values">
+    <value name="urlPath">restv2/WmB2B_IOMigration.wm:b2b_io_migration/createTPA</value>
+    <record name="portMap" javaclass="com.wm.util.Values">
+    </record>
+  </record>
+  <record name="getAllIdentityTypes" javaclass="com.wm.util.Values">
+    <value name="urlPath">restv2/WmB2B_IOMigration.wm:b2b_io_migration/getAllIdentityTypes</value>
+    <record name="portMap" javaclass="com.wm.util.Values">
+    </record>
+  </record>
+  <record name="getAllPartnerProfiles" javaclass="com.wm.util.Values">
+    <value name="urlPath">restv2/WmB2B_IOMigration.wm:b2b_io_migration/getAllPartnerProfiles</value>
+    <record name="portMap" javaclass="com.wm.util.Values">
+    </record>
+  </record>
+  <record name="createCustomIdentities" javaclass="com.wm.util.Values">
+    <value name="urlPath">restv2/WmB2B_IOMigration.wm:b2b_io_migration/createCustomIdentities</value>
+    <record name="portMap" javaclass="com.wm.util.Values">
+    </record>
+  </record>
+  <record name="getAllDocumentAttributes" javaclass="com.wm.util.Values">
+    <value name="urlPath">restv2/WmB2B_IOMigration.wm:b2b_io_migration/getAllDocumentAttributes</value>
+    <record name="portMap" javaclass="com.wm.util.Values">
+    </record>
+  </record>
+  <record name="getAllBusinessDocuments" javaclass="com.wm.util.Values">
+    <value name="urlPath">restv2/WmB2B_IOMigration.wm:b2b_io_migration/getAllBusinessDocuments</value>
+    <record name="portMap" javaclass="com.wm.util.Values">
+    </record>
+  </record>
+  <record name="getwmioProjects" javaclass="com.wm.util.Values">
+    <value name="urlPath">restv2/WmB2B_IOMigration.wm:b2b_io_migration/getwmioProjects</value>
+    <record name="portMap" javaclass="com.wm.util.Values">
+    </record>
+  </record>
+  <record name="getFlowServiceDetails" javaclass="com.wm.util.Values">
+    <value name="urlPath">restv2/WmB2B_IOMigration.wm:b2b_io_migration/getFlowServiceDetails</value>
+    <record name="portMap" javaclass="com.wm.util.Values">
+    </record>
+  </record>
+  <record name="getAllUsers" javaclass="com.wm.util.Values">
+    <value name="urlPath">restv2/WmB2B_IOMigration.wm:b2b_io_migration/getAllUsers</value>
+    <record name="portMap" javaclass="com.wm.util.Values">
+    </record>
+  </record>
+  <record name="createInboundChannel" javaclass="com.wm.util.Values">
+    <value name="urlPath">restv2/WmB2B_IOMigration.wm:b2b_io_migration/createInboundChannel</value>
+    <record name="portMap" javaclass="com.wm.util.Values">
+    </record>
+  </record>
+  <record name="createOutboundChannel" javaclass="com.wm.util.Values">
+    <value name="urlPath">restv2/WmB2B_IOMigration.wm:b2b_io_migration/createOutboundChannel</value>
+    <record name="portMap" javaclass="com.wm.util.Values">
+    </record>
+  </record>
+  <record name="updatePartnerAddress" javaclass="com.wm.util.Values">
+    <value name="urlPath">restv2/WmB2B_IOMigration.wm:b2b_io_migration/updatePartnerAddress</value>
+    <record name="portMap" javaclass="com.wm.util.Values">
+    </record>
+  </record>
+  <record name="updatePartnerContacts" javaclass="com.wm.util.Values">
+    <value name="urlPath">restv2/WmB2B_IOMigration.wm:b2b_io_migration/updatePartnerContacts</value>
+    <record name="portMap" javaclass="com.wm.util.Values">
+    </record>
+  </record>
+  <record name="updatePartnerInboundChannels" javaclass="com.wm.util.Values">
+    <value name="urlPath">restv2/WmB2B_IOMigration.wm:b2b_io_migration/updatePartnerInboundChannels</value>
+    <record name="portMap" javaclass="com.wm.util.Values">
+    </record>
+  </record>
+  <record name="updatePartnerOutboundChannels" javaclass="com.wm.util.Values">
+    <value name="urlPath">restv2/WmB2B_IOMigration.wm:b2b_io_migration/updatePartnerOutboundChannels</value>
+    <record name="portMap" javaclass="com.wm.util.Values">
+    </record>
+  </record>
+  <record name="updatePartnerUsers" javaclass="com.wm.util.Values">
+    <value name="urlPath">restv2/WmB2B_IOMigration.wm:b2b_io_migration/updatePartnerUsers</value>
+    <record name="portMap" javaclass="com.wm.util.Values">
+    </record>
+  </record>
+  <record name="getChannels" javaclass="com.wm.util.Values">
+    <value name="urlPath">restv2/WmB2B_IOMigration.wm:b2b_io_migration/getChannels</value>
+    <record name="portMap" javaclass="com.wm.util.Values">
+    </record>
+  </record>
+  <record name="createPartnerQueue" javaclass="com.wm.util.Values">
+    <value name="urlPath">restv2/WmB2B_IOMigration.wm:b2b_io_migration/createPartnerQueue</value>
+    <record name="portMap" javaclass="com.wm.util.Values">
+    </record>
+  </record>
+  <record name="getPartnerQueue" javaclass="com.wm.util.Values">
+    <value name="urlPath">restv2/WmB2B_IOMigration.wm:b2b_io_migration/getPartnerQueue</value>
+    <record name="portMap" javaclass="com.wm.util.Values">
+    </record>
+  </record>
+  <record name="updatePartnerQueue" javaclass="com.wm.util.Values">
+    <value name="urlPath">restv2/WmB2B_IOMigration.wm:b2b_io_migration/updatePartnerQueue</value>
+    <record name="portMap" javaclass="com.wm.util.Values">
+    </record>
+  </record>
+  <record name="getEDIStandards" javaclass="com.wm.util.Values">
+    <value name="urlPath">restv2/WmB2B_IOMigration.wm:b2b_io_migration/getEDIStandards</value>
+    <record name="portMap" javaclass="com.wm.util.Values">
+    </record>
+  </record>
+  <record name="getEDIStandardVersions" javaclass="com.wm.util.Values">
+    <value name="urlPath">restv2/WmB2B_IOMigration.wm:b2b_io_migration/getEDIStandardVersions</value>
+    <record name="portMap" javaclass="com.wm.util.Values">
+    </record>
+  </record>
+  <record name="getEDIStandardTransaction" javaclass="com.wm.util.Values">
+    <value name="urlPath">restv2/WmB2B_IOMigration.wm:b2b_io_migration/getEDIStandardTransaction</value>
+    <record name="portMap" javaclass="com.wm.util.Values">
+    </record>
+  </record>
+  <record name="updatePartnerDeliverySettings" javaclass="com.wm.util.Values">
+    <value name="urlPath">restv2/WmB2B_IOMigration.wm:b2b_io_migration/updatePartnerDeliverySettings</value>
+    <record name="portMap" javaclass="com.wm.util.Values">
+    </record>
+  </record>
+  <record name="getPartnerUsers" javaclass="com.wm.util.Values">
+    <value name="urlPath">restv2/WmB2B_IOMigration.wm:b2b_io_migration/getPartnerUsers</value>
+    <record name="portMap" javaclass="com.wm.util.Values">
+    </record>
+  </record>
+  <record name="createPartnerControlNumber" javaclass="com.wm.util.Values">
+    <value name="urlPath">restv2/WmB2B_IOMigration.wm:b2b_io_migration/createPartnerControlNumber</value>
+    <record name="portMap" javaclass="com.wm.util.Values">
+    </record>
+  </record>
+  <record name="createTPATemplate" javaclass="com.wm.util.Values">
+    <value name="urlPath">restv2/WmB2B_IOMigration.wm:b2b_io_migration/createTPATemplate</value>
+    <record name="portMap" javaclass="com.wm.util.Values">
+    </record>
+  </record>
+</Values>
